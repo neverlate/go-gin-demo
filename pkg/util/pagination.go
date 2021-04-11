@@ -1,8 +1,8 @@
 package util
 
 import (
-	"../pkg/setting"
 	"github.com/gin-gonic/gin"
+	"github.com/neverlate/go-gin-demo/pkg/setting"
 	"github.com/unknwon/com"
 )
 
