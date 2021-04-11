@@ -19,8 +19,3 @@ require (
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
-
-replace(
- github.com/neverlate/go-gin-demo/pkg/setting => ./go-application/go-gin-example/pkg/setting
-
-)
